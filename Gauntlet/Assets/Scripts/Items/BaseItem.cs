@@ -10,7 +10,8 @@ public class BaseItem : MonoBehaviour {
 
 		Potions, 
 		Weapons, 
-		Scrolls, 
+		Scrolls,
+		Food,
 		Chest
 	}
 
